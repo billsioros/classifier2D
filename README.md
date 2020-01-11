@@ -4,7 +4,7 @@
 
 ## Set Up
 
-    pip -m venv env
+    python -m venv env
     pip install -r requirements.txt
 
 ## Example Usage
